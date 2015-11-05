@@ -5,6 +5,10 @@
 From http://archlinuxarm.org/platforms/armv7/rockchip/asus-chromebook-flip-c100p
 
     umount /dev/mmcblk1*
+    fdisk /dev/mmcblk1
+
+Type `g`, then type `w`.
+
     cgpt create /dev/mmcblk1
     cgpt add -i 1 -t kernel -b 8192 -s 32768 -l Kernel -S 1 -T 5 -P 10 /dev/mmcblk1
 
