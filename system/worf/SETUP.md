@@ -1,4 +1,4 @@
-# Asus C201
+# ASUS C201
 
 ## Create Bootable SD Card
 
