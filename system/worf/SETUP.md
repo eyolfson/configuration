@@ -2,7 +2,8 @@
 
 ## Create Bootable SD Card
 
-From http://archlinuxarm.org/platforms/armv7/rockchip/asus-chromebook-flip-c100p
+Original instructions adapted from
+[Arch Linux ARM](http://archlinuxarm.org/platforms/armv7/rockchip/asus-chromebook-flip-c100p).
 
     umount /dev/mmcblk1*
     fdisk /dev/mmcblk1
@@ -31,6 +32,9 @@ column for Sec GPT table which is 15633375 in this example:
     sync
 
 ## Libreboot
+
+Original instructions adapted from
+[here](https://gist.github.com/jcs/4bf59314d604538a5098).
 
     git clone git://git.savannah.nongnu.org/libreboot.git
     cd libreboot
