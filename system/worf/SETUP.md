@@ -37,11 +37,37 @@ column for Sec GPT table which is 15633375 in this example:
     sudo ./build dependencies parabola
 
 Note: see `resources/scripts/helpers/build/dependencies/parabola` for specific
-packages.
+packages. Likely you'll have to comment out the line that tests if you have the
+`multilib` repository enabled, as it seems to be wrong. Afterwards execute the
+following commands:
 
     ./download all
-    cd coreboot
-    make crossgcc-arm
-    cd ..
-    ./build module flashrom static
+    ./build module all
+
+Ensure that `/usr/bin/python` is symlinked to `/usr/bin/python2` instead of
+`python3` before trying to build the ROM.
+
     ./build roms withdepthcharge veyron_speedy
+
+If successful, the ROM will be in `coreboot/build/coreboot.rom`.
+
+Now, disable SPI write protection by undoing the screw.
+
+Backup the factory ROM.
+
+    flashrom -r asus-c201-factory-spi.rom
+
+You can use `fmap_decode` to view the contents of the ROM. Now, combine the
+coreboot ROM with the factory ROM. We only use the first megabyte from the
+coreboot ROM.
+
+    dd if=coreboot.rom bs=1024 count=1024 of=firstmeg.rom
+    dd if=asus-c201-factory-spi.rom bs=1024 skip=1024 of=latermegs.rom
+    cat firstmeg.rom latermegs.rom > final.rom
+
+Verify with `fmap_decode` that this final ROM looks like the factory ROM. Now
+we're ready to flash.
+
+    flashrom -w final.rom
+
+Hope this works, otherwise you'll have to unbrick it yourself.
