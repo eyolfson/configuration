@@ -70,8 +70,11 @@ coreboot ROM.
     cat firstmeg.rom latermegs.rom > asus-c201-libreboot-spi.rom
 
 Verify with `fmap_decode` that this final ROM looks like the factory ROM. Now
-we're ready to flash.
+we're ready to flash. Ensure the write protect screw is out and run the
+following commands:
 
+    flashrom --wp-disable
     flashrom -w asus-c201-libreboot-spi.rom
+    flashrom --wp-enable
 
 Hope this works, otherwise you'll have to unbrick it yourself.
