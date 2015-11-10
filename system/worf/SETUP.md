@@ -67,11 +67,11 @@ coreboot ROM.
 
     dd if=coreboot.rom bs=1024 count=1024 of=firstmeg.rom
     dd if=asus-c201-factory-spi.rom bs=1024 skip=1024 of=latermegs.rom
-    cat firstmeg.rom latermegs.rom > final.rom
+    cat firstmeg.rom latermegs.rom > asus-c201-libreboot-spi.rom
 
 Verify with `fmap_decode` that this final ROM looks like the factory ROM. Now
 we're ready to flash.
 
-    flashrom -w final.rom
+    flashrom -w asus-c201-libreboot-spi.rom
 
 Hope this works, otherwise you'll have to unbrick it yourself.
