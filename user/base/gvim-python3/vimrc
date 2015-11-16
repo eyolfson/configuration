@@ -1,0 +1,15 @@
+if has("gui_running")
+	set guifont=Cousine\ 8
+	set guioptions-=m "Turn off the menu bar
+	set guioptions-=T "Turn off the tool bar
+	set guioptions-=L "Turn off the left scroll bar
+	set guioptions-=r "Turn off the right scroll bar
+
+	set background=dark
+	colorscheme solarized
+endif
+
+syntax on
+set list
+set number
+set ruler
