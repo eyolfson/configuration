@@ -1,11 +1,10 @@
 clang
 cmake
-emacs
-emacs-evil
 firefox
 firefox-pentadactyl
 fish
 git
+gvim-python3
 i3-wm
 i3lock
 i3status
