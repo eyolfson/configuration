@@ -1,0 +1,7 @@
+//! TEMPLATE
+[profiles]
+  [[default]]
+    use_system_font = False
+    font = {FONT_FAMILY} {FONT_SIZE}
+    scrollbar_position = disabled
+    show_titlebar = False
