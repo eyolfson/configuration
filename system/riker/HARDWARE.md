@@ -18,7 +18,7 @@ Name: NVIDIA GTX 960M 2GB DDR5
 
 ## Storage
 
-Capacity: 256 GB
+- Capacity: 256 GB
 
 ## Display
 
@@ -31,5 +31,5 @@ Name: DW1830 3x3 802.11ac 2.4/5GHz + Bluetooth 4.1
 
 ## Battery
 
-Capacity: 84 WH
-Adapter: 130 W
+- Capacity: 84 WH
+- Adapter: 130 W
