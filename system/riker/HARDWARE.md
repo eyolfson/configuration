@@ -14,7 +14,7 @@
 
 ## Graphics
 
-Name: NVIDIA GTX 960M 2GB DDR5
+- Name: NVIDIA GTX 960M 2GB DDR5
 
 ## Storage
 
@@ -27,7 +27,7 @@ Name: NVIDIA GTX 960M 2GB DDR5
 
 ## Wireless
 
-Name: DW1830 3x3 802.11ac 2.4/5GHz + Bluetooth 4.1
+- Name: DW1830 3x3 802.11ac 2.4/5GHz + Bluetooth 4.1
 
 ## Battery
 
