@@ -1,4 +1,5 @@
 alsa-utils
+btrfs-progs
 clang
 cmake
 firefox
@@ -16,6 +17,7 @@ noto-fonts
 openssh
 python
 sddm
+sshfs
 strace
 terminator
 tmux
