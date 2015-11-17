@@ -1,3 +1,4 @@
+alsa-utils
 clang
 cmake
 firefox
@@ -10,8 +11,14 @@ htop
 i3-wm
 i3lock
 i3status
+mpv
 noto-fonts
+openssh
 python
+sddm
 strace
 terminator
 tmux
+xf86-input-libinput
+xorg-server
+xorg-xrandr
