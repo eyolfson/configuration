@@ -3,12 +3,15 @@ cmake
 firefox
 firefox-pentadactyl
 fish
+gdb
 git
 gvim-python3
+htop
 i3-wm
 i3lock
 i3status
 noto-fonts
 python
+strace
 terminator
 tmux
