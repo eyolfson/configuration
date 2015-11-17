@@ -1,20 +1,35 @@
-# MacBook Pro (Late 2013)
-- Model identifier: MacBookPro11,1
-- Model number: ME865xx/A
+# Dell XPS 15 (9550)
 
 ## CPU
-- Model: Intel Core i5-4258U
-- Clock rate: 2.4 GHz
+
+- Model: Intel Core i5-6300HQ
+- Cores: 4
+- Clock rate: 2.3 GHz
 
 ## Memory
-- Capacity: 8 GB
+
+- Type: DDR4
+- Capacity: 8 GB (4 GB x 2)
+- Clock rate: 2133 MHz
 
 ## Graphics
-- Model: Intel Iris 5100
 
-## Display
-- Resolution: 2560x1600
-- Size: 13.3"
+Name: NVIDIA GTX 960M 2GB DDR5
 
 ## Storage
-- Capacity: 256 GB
+
+Capacity: 256 GB
+
+## Display
+
+- Resolution: 3840 x 2160
+- Size: 15.6"
+
+## Wireless
+
+Name: DW1830 3x3 802.11ac 2.4/5GHz + Bluetooth 4.1
+
+## Battery
+
+Capacity: 84 WH
+Adapter: 130 W
