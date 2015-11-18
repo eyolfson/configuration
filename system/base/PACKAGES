@@ -14,6 +14,7 @@ i3lock
 i3status
 mpv
 noto-fonts
+ntp
 numix-themes
 openssh
 pass
@@ -23,6 +24,7 @@ sshfs
 strace
 terminator
 tmux
+vim-colorsamplerpack
 xcursor-vanilla-dmz-aa
 xf86-input-libinput
 xorg-server
