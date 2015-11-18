@@ -23,6 +23,9 @@ sshfs
 strace
 terminator
 tmux
+xcursor-vanilla-dmz-aa
 xf86-input-libinput
 xorg-server
+xorg-xauth
 xorg-xrandr
+xorg-xrdb
