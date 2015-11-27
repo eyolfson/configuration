@@ -33,3 +33,11 @@
 
 - Capacity: 84 WH
 - Adapter: 130 W
+
+## Ports
+
+- Thunderbolt 3
+- HDMI
+- 3.5mm
+- 2x USB 3.0
+- SD card reader
