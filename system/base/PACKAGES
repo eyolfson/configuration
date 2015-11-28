@@ -23,6 +23,7 @@ openssh
 pass
 pygmentize
 python
+rsync
 sddm
 sshfs
 strace
