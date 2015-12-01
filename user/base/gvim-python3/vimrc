@@ -1,6 +1,6 @@
 //! TEMPLATE
 if has("gui_running")
-	set guifont={FONT_FAMILY}\ {FONT_SIZE}
+	set guifont={FONT_MONOSPACE}\ {FONT_SIZE}
 	set guioptions-=m "Turn off the menu bar
 	set guioptions-=T "Turn off the tool bar
 	set guioptions-=L "Turn off the left scroll bar
