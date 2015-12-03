@@ -45,6 +45,7 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 tmux
+valgrind
 vim-colorsamplerpack
 xcursor-vanilla-dmz-aa
 xf86-input-libinput
