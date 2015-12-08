@@ -1,6 +1,7 @@
 alsa-utils
 btrfs-progs
 clang
+clang-analyzer
 cmake
 feh
 firefox
