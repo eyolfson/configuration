@@ -52,6 +52,7 @@ texlive-science
 tmux
 valgrind
 vim-colorsamplerpack
+vim-ctrlp
 xcursor-vanilla-dmz-aa
 xf86-input-libinput
 xorg-server
