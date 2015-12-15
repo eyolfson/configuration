@@ -6,6 +6,7 @@ clang
 clang-analyzer
 clang-tools-extra
 cmake
+ctags
 feh
 firefox
 firefox-pentadactyl
