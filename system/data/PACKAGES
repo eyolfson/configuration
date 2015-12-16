@@ -1,1 +1,5 @@
+bind
 letsencrypt
+nginx
+uwsgi
+uwsgi-plugin-python
