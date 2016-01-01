@@ -23,6 +23,8 @@ remotepasseval = get_password("eyl")
 nametrans = nametrans_eyl_remote
 keepalive = 60
 holdconnectionopen = yes
+ssl = yes
+sslcacertfile = /etc/ssl/certs/ca-certificates.crt
 
 [Account jeyolfso@uwaterloo.ca]
 localrepository = jeyolfso@uwaterloo.ca-local
@@ -44,3 +46,5 @@ remotepasseval = get_password("uwaterloo/watiam")
 nametrans = nametrans_uwaterloo_remote
 keepalive = 60
 holdconnectionopen = yes
+ssl = yes
+sslcacertfile = /etc/ssl/certs/ca-certificates.crt
