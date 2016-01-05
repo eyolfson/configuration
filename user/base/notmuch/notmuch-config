@@ -1,0 +1,20 @@
+[database]
+path=/home/jon/email
+
+[user]
+name=Jon Eyolfson
+primary_email=jon@eyl.io
+other_email=jeyolfso@uwaterloo.ca;
+
+[new]
+tags=unread;inbox;
+ignore=
+
+[search]
+exclude_tags=deleted;spam;
+
+[maildir]
+synchronize_flags=true
+
+[crypto]
+gpg_path=gpg
