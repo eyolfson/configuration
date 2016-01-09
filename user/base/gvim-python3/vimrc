@@ -15,4 +15,6 @@ set list
 set number
 set ruler
 
+set noswapfile
+
 let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files']
