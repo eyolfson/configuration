@@ -1,0 +1,6 @@
+Host ecgit
+    HostName ecgit.uwaterloo.ca
+    User jeyolfso
+
+Host laforge
+    HostName laforge.cs.uwaterloo.ca
