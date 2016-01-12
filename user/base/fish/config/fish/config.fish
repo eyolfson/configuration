@@ -1,1 +1,2 @@
-set fish_greeting
+set -e fish_greeting
+set -U EDITOR vim
