@@ -11,6 +11,7 @@ floating_modifier $mod
 
 bindsym $mod+Return exec terminator -e tmux
 
+bindsym $mod+t exec terminator
 bindsym $mod+i exec chromium
 bindsym $mod+o exec gvim
 bindsym $mod+p exec evince
