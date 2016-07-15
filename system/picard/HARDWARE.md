@@ -4,3 +4,4 @@
 - Keyboard: Happy Hacking Keyboard Professional 2
 - Mouse: Logitech G303
 - Mousepad: SteelSeries QcK+
+- Headphones: Sennheiser HD 598
