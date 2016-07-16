@@ -5,3 +5,4 @@
 - Mouse: Logitech G303
 - Mousepad: SteelSeries QcK+
 - Headphones: Sennheiser HD 598
+- CPU: Intel i7-2600K
