@@ -2,7 +2,7 @@
 
 A collection of settings for Arch Linux systems.
 
-## Machines
+## Systems
 
 - `picard`
 - `riker`
