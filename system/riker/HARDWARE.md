@@ -1,4 +1,6 @@
-# Dell XPS 15 (9550)
+# Laptop
+
+Model: Dell XPS 15 (9550)
 
 ## CPU
 
