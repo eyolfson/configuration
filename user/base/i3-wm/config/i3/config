@@ -15,6 +15,7 @@ bindsym $mod+t exec terminator
 bindsym $mod+i exec chromium
 bindsym $mod+o exec gvim
 bindsym $mod+p exec evince
+bindsym $mod+y exec eyl-launcher
 
 bindsym $mod+Shift+q kill
 
