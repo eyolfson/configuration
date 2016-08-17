@@ -15,3 +15,4 @@
     - Link: http://www.ikea.com/ca/en/catalog/products/80251141/
   - Legs: Olov
     - Link: http://www.ikea.com/ca/en/catalog/products/30264301/
+- Monitor Mount: Ergotech Freedom Arm (FDM-PC-S01)
