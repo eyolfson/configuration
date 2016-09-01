@@ -7,6 +7,7 @@
 - Headphones: Sennheiser HD 598
 - Amp: FiiO E9
 - CPU: Intel i7-2600K
+- GPU: MSI Gaming X RX 480 8 GB
 
 - Desk: Linnmon / Olov
   - Table top: Linnmon
