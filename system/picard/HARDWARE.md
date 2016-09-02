@@ -8,6 +8,7 @@
 - Amp: FiiO E9
 - CPU: Intel i7-2600K
 - GPU: MSI Gaming X RX 480 8 GB
+- RAM: 8 GB DDR3
 
 - Desk: Linnmon / Olov
   - Table top: Linnmon
