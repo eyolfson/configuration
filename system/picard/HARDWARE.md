@@ -1,14 +1,16 @@
 # Desktop
 
+- CPU: Intel i7-2600K
+- RAM: 8 GB DDR3
+- GPU: MSI Gaming X RX 480 8 GB
+
 - Monitor: Dell P2715Q
 - Keyboard: Happy Hacking Keyboard Professional 2
 - Mouse: Logitech G303
 - Mousepad: SteelSeries QcK+
+
 - Headphones: Sennheiser HD 598
 - Amp: FiiO E9
-- CPU: Intel i7-2600K
-- GPU: MSI Gaming X RX 480 8 GB
-- RAM: 8 GB DDR3
 
 - Desk: Linnmon / Olov
   - Table top: Linnmon
