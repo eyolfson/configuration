@@ -1,8 +1,11 @@
 # Desktop
 
+- Motherboard: _
 - CPU: Intel i7-2600K
 - RAM: 8 GB DDR3
 - GPU: MSI Gaming X RX 480 8 GB
+- SSD: _
+- Bluray Drive: _
 
 - Monitor: Dell P2715Q
 - Keyboard: Happy Hacking Keyboard Professional 2
