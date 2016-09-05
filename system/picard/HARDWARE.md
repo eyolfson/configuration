@@ -4,7 +4,7 @@
 - CPU: Intel i7-2600K
 - RAM: 8 GB DDR3
 - GPU: MSI Gaming X RX 480 8 GB
-- SSD: _
+- SSD: Samsung 840 EVO 250 GB
 - Bluray Drive: _
 
 - Monitor: Dell P2715Q
