@@ -23,3 +23,5 @@
   - Legs: Olov
     - Link: http://www.ikea.com/ca/en/catalog/products/30264301/
 - Monitor Mount: Ergotech Freedom Arm (FDM-PC-S01)
+
+- Chair: Herman Miller Embody
