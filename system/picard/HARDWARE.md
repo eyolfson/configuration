@@ -6,6 +6,7 @@
 - GPU: MSI Gaming X RX 480 8 GB
 - SSD: Samsung 840 EVO 250 GB
 - Bluray Drive: _
+- Case: SilverStone Fortress FT02
 
 - Monitor: Dell P2715Q
 - Keyboard: Happy Hacking Keyboard Professional 2
