@@ -1,6 +1,6 @@
 # Desktop
 
-- Motherboard: _
+- Motherboard: Asus P8Z68-V LE
 - CPU: Intel i7-2600K
 - RAM: 8 GB DDR3
 - GPU: MSI Gaming X RX 480 8 GB
