@@ -14,7 +14,7 @@
 - Mousepad: SteelSeries QcK+
 
 - Headphones: Sennheiser HD 598
-- Amp: FiiO E9
+- DAC/Amp: FiiO E10K
 
 - Desk: Linnmon / Olov
   - Table top: Linnmon
