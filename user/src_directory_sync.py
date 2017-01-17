@@ -20,6 +20,10 @@ PRIVATE_REPOSITORIES = [
   "eudyptula-challenge",
 ]
 
+UWATERLOO_REPOSITORIES = [
+  "llvm-immutability-analysis",
+]
+
 EXTERNAL_REPOSITORIES = [
   ("linux",
    "git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
@@ -70,6 +74,16 @@ for repo_name in PUBLIC_REPOSITORIES:
   clone(git_directory, origin_uri)
   check_remote(git_directory, "origin", origin_uri)
   check_remote(git_directory, "github", github_uri)
+
+print("\033[1;34mUWaterloo Repositories\033[m")
+for repo_name in UWATERLOO_REPOSITORIES:
+  print("\033[1;36mRepository '{}'\033[m".format(repo_name))
+  git_directory = os.path.join(SRC_DIRECTORY, "uwaterloo", repo_name)
+  origin_uri = ORIGIN_URI_TEMPLATE.format(repo_name)
+  ecgit_uri = ECGIT_URI_TEMPLATE.format(repo_name)
+  clone(git_directory, origin_uri)
+  check_remote(git_directory, "origin", origin_uri)
+  check_remote(git_directory, "ecgit", ecgit_uri)
 
 print("\033[1;34mExternal Repositories\033[m")
 for entry in EXTERNAL_REPOSITORIES:
