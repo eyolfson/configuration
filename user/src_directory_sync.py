@@ -25,6 +25,9 @@ UWATERLOO_REPOSITORIES = [
 ]
 
 EXTERNAL_REPOSITORIES = [
+  ("clang",
+   "http://llvm.org/git/clang.git",
+   []),
   ("linux",
    "git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
    [("next",
