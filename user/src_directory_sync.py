@@ -14,6 +14,7 @@ PUBLIC_REPOSITORIES = [
   "eyl-nes-emulator",
   "eyl-software-development",
   "matasano-challenge",
+  "site-eyl-blog",
 ]
 
 PRIVATE_REPOSITORIES = [
