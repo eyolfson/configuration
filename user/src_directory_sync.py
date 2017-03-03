@@ -23,9 +23,13 @@ PRIVATE_REPOSITORIES = [
 
 UWATERLOO_REPOSITORIES = [
   "llvm-immutability-analysis",
+  "phd-thesis",
 ]
 
 EXTERNAL_REPOSITORIES = [
+  ("cores",
+   "https://github.com/PaulStoffregen/cores.git",
+   []),
   ("clang",
    "http://llvm.org/git/clang.git",
    []),
