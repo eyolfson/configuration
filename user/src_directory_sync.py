@@ -37,6 +37,9 @@ EXTERNAL_REPOSITORIES = [
    "git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
    [("next",
      "git://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git")]),
+  ("llvm",
+   "http://llvm.org/git/llvm.git",
+   []),
 ]
 
 def clone(git_directory, uri):
