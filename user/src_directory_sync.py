@@ -11,6 +11,7 @@ GITHUB_URI_TEMPLATE = "git@github.com:eyolfson/{}"
 ECGIT_URI_TEMPLATE = "git@ecgit.uwaterloo.ca:jeyolfso/{}"
 
 PUBLIC_REPOSITORIES = [
+  "hello-vulkan",
   "eyl-nes-emulator",
   "eyl-software-development",
   "matasano-challenge",
