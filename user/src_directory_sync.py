@@ -28,11 +28,14 @@ UWATERLOO_REPOSITORIES = [
 ]
 
 EXTERNAL_REPOSITORIES = [
-  ("cores",
-   "https://github.com/PaulStoffregen/cores.git",
-   []),
   ("clang",
    "http://llvm.org/git/clang.git",
+   []),
+  ("clang-tools-extra",
+   "http://llvm.org/git/clang-tools-extra.git",
+   []),
+  ("cores",
+   "https://github.com/PaulStoffregen/cores.git",
    []),
   ("linux",
    "git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
