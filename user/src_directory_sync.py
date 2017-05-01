@@ -23,6 +23,7 @@ PRIVATE_REPOSITORIES = [
 ]
 
 UWATERLOO_REPOSITORIES = [
+  "clang-immutability-check",
   "llvm-immutability-analysis",
   "phd-thesis",
 ]
