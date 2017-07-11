@@ -27,3 +27,8 @@
 - Monitor Mount: Ergotech Freedom Arm (FDM-PC-S01)
 
 - Chair: Herman Miller Embody
+
+
+
+- CPU: AMD Ryzen 1700X
+- CPU Cooler: NZXT Kraken X62
