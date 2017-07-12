@@ -32,3 +32,4 @@
 
 - CPU: AMD Ryzen 1700X
 - CPU Cooler: NZXT Kraken X62
+- Accessory: NZXT Internal USB Hub
