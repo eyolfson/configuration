@@ -33,4 +33,5 @@
 - CPU: AMD Ryzen 1700X
 - CPU Cooler: NZXT Kraken X62
 - Memory: G.SKILL TridentZ RGB Series 32GB (2 x 16GB) (F4-3200C14D-32GTZR)
+- Storage: SAMSUNG 960 EVO M.2 500GB NVMe
 - Accessory: NZXT Internal USB Hub
