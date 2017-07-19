@@ -33,6 +33,7 @@
 - CPU: AMD Ryzen 1700X
 - CPU Cooler: NZXT Kraken X62
 - Memory: G.SKILL TridentZ RGB Series 32GB (2 x 16GB) (F4-3200C14D-32GTZR)
+- Motherboard: MSI B350 Gaming Pro Carbon
 - Storage: SAMSUNG 960 EVO M.2 500GB NVMe
 - Case: NZXT S340 Elite
 - Power Supply: Seasonic Prime Titanium 650W
