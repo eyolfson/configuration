@@ -4,7 +4,7 @@
 - CPU: Intel i7-2600K
 - CPU Cooler: Noctua D14
 - RAM: 8 GB DDR3
-- GPU: MSI Gaming X RX 480 8 GB
+- GPU: Sapphire Radeon HD 6950
 - SSD: Samsung 840 EVO 250 GB
 - Bluray Drive: _
 - Case: SilverStone Fortress FT02
@@ -33,6 +33,7 @@
 - CPU: AMD Ryzen 1700X
 - CPU Cooler: NZXT Kraken X62
 - Memory: G.SKILL TridentZ RGB Series 32GB (2 x 16GB) (F4-3200C14D-32GTZR)
+- GPU: MSI Radeon RX 480 Gaming X 8 GB
 - Motherboard: MSI B350 Gaming Pro Carbon
 - Storage: SAMSUNG 960 EVO M.2 500GB NVMe
 - Case: NZXT S340 Elite
