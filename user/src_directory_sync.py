@@ -11,6 +11,8 @@ GITHUB_URI_TEMPLATE = "git@github.com:eyolfson/{}"
 ECGIT_URI_TEMPLATE = "git@ecgit.uwaterloo.ca:jeyolfso/{}"
 
 PUBLIC_REPOSITORIES = [
+  "configuration",
+  "configuration-check",
   "hello-vulkan",
   "eyl-nes-emulator",
   "eyl-software-development",
@@ -23,7 +25,10 @@ PRIVATE_REPOSITORIES = [
 ]
 
 UWATERLOO_REPOSITORIES = [
+  "2017-empirical-static-const",  
   "clang-immutability-check",
+  "django-cpp-doc",
+  "immutability-experiments",
   "llvm-immutability-analysis",
   "phd-thesis",
 ]
