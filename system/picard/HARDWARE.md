@@ -1,5 +1,6 @@
 - CPU: AMD Ryzen 1700X
 - CPU Cooler: NZXT Kraken X62
+- Thermal Compound: Noctua NT-H1
 - Memory: G.SKILL TridentZ RGB Series 32GB (2 x 16GB) (F4-3200C14D-32GTZR)
 - GPU: MSI Radeon RX 480 Gaming X 8 GB
 - Motherboard: MSI B350 Gaming Pro Carbon
