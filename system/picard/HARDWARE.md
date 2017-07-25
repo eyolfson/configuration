@@ -3,7 +3,7 @@
 - Thermal Compound: Noctua NT-H1
 - Memory: G.SKILL TridentZ RGB Series 32GB (2 x 16GB) (F4-3200C14D-32GTZR)
 - GPU: MSI Radeon RX 480 Gaming X 8 GB
-- Motherboard: MSI B350 Gaming Pro Carbon
+- Motherboard: MSI B350 Gaming Pro Carbon [RMA]
 - Storage: SAMSUNG 960 EVO M.2 500GB NVMe
 - Case: NZXT S340 Elite
 - Power Supply: Seasonic Prime Titanium 650W
