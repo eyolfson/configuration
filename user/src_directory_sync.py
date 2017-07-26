@@ -22,6 +22,7 @@ PUBLIC_REPOSITORIES = [
 
 PRIVATE_REPOSITORIES = [
   "eudyptula-challenge",
+  "notepad",
 ]
 
 UWATERLOO_REPOSITORIES = [
