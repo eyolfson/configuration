@@ -18,6 +18,7 @@ PUBLIC_REPOSITORIES = [
   "eyl-software-development",
   "matasano-challenge",
   "site-eyl-blog",
+  "the-big-book-of-computing",
 ]
 
 PRIVATE_REPOSITORIES = [
