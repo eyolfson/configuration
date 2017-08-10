@@ -14,6 +14,7 @@ PUBLIC_REPOSITORIES = [
   "configuration",
   "configuration-check",
   "hello-vulkan",
+  "eyl-irc",
   "eyl-nes-emulator",
   "eyl-software-development",
   "matasano-challenge",
