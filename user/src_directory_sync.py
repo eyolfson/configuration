@@ -13,10 +13,11 @@ ECGIT_URI_TEMPLATE = "git@ecgit.uwaterloo.ca:jeyolfso/{}"
 PUBLIC_REPOSITORIES = [
   "configuration",
   "configuration-check",
-  "hello-vulkan",
   "eyl-irc",
   "eyl-nes-emulator",
   "eyl-software-development",
+  "hello-vulkan",
+  "llvm-static-analysis-examples",
   "matasano-challenge",
   "site-eyl-blog",
   "the-big-book-of-computing",
