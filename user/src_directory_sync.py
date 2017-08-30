@@ -14,6 +14,7 @@ PUBLIC_REPOSITORIES = [
   "configuration",
   "configuration-check",
   "eyl-irc",
+  "eyl-launcher",
   "eyl-nes-emulator",
   "eyl-software-development",
   "hello-vulkan",
