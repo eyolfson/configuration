@@ -8,4 +8,4 @@ A collection of settings for Arch Linux systems.
 - `riker` (Laptop)
 - `laforge` (Workstation)
 - `data` (Server)
-- `worf` (Chromebook)
+- `worf` (Chromebook) [Unused]
