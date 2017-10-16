@@ -14,6 +14,7 @@ PUBLIC_REPOSITORIES = [
   "aur",
   "configuration",
   "configuration-check",
+  "eyl-desktop",
   "eyl-irc",
   "eyl-launcher",
   "eyl-nes-emulator",
