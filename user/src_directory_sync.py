@@ -19,6 +19,7 @@ PUBLIC_REPOSITORIES = [
   "eyl-launcher",
   "eyl-nes-emulator",
   "eyl-software-development",
+  "hack-assembler",
   "hello-vulkan",
   "llvm-static-analysis-examples",
   "matasano-challenge",
