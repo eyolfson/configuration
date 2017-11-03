@@ -43,6 +43,9 @@ UWATERLOO_REPOSITORIES = [
 ]
 
 EXTERNAL_REPOSITORIES = [
+  ("Bear",
+   "https://github.com/rizsotto/Bear",
+   []),
   ("clang",
    "http://llvm.org/git/clang.git",
    []),
