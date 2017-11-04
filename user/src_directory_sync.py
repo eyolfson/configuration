@@ -14,6 +14,7 @@ PUBLIC_REPOSITORIES = [
   "aur",
   "configuration",
   "configuration-check",
+  "django-ssh",
   "eyl-desktop",
   "eyl-irc",
   "eyl-launcher",
