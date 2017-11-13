@@ -3,7 +3,6 @@ btrfs-progs
 chromium
 chromium-pepper-flash
 clang
-clang-analyzer
 clang-tools-extra
 cmake
 ctags
