@@ -35,6 +35,7 @@ PRIVATE_REPOSITORIES = [
 ]
 
 UWATERLOO_REPOSITORIES = [
+  "research-2016-ecoop-paper",
   "2017-empirical-static-const",  
   "clang-immutability-check",
   "django-cpp-doc",
