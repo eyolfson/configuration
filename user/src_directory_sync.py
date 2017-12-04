@@ -31,6 +31,7 @@ PUBLIC_REPOSITORIES = [
 
 PRIVATE_REPOSITORIES = [
   "eudyptula-challenge",
+  "home-password-store",
   "notepad",
 ]
 
