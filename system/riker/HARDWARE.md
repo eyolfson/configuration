@@ -20,7 +20,8 @@ Model: Dell XPS 15 (9550)
 
 ## Storage
 
-- Capacity: 256 GB
+- Model: Samsung 960 EVO
+- Capacity: 250 GB
 
 ## Display
 
