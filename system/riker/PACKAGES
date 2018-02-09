@@ -1,7 +1,6 @@
 dialog
 libva
 libva-intel-driver
-mesa-libgl
 wpa_actiond
 wpa_supplicant
 xf86-video-intel
