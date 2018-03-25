@@ -42,3 +42,6 @@ pulseaudio-alsa
 pavucontrol
 
 htop
+
+android-tools
+android-udev
