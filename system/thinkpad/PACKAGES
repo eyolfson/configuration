@@ -18,3 +18,27 @@ libx264
 
 sway
 rxvt-unicode
+
+xorg-xinit
+xorg-server
+xorg-xdpyinfo
+xorg-xrandr
+
+i3-gaps
+i3blocks
+i3lock
+i3status
+
+xf86-video-intel
+pass
+evince
+pkgfile
+sshfs
+mpv
+acpi
+
+pulseaudio
+pulseaudio-alsa
+pavucontrol
+
+htop
