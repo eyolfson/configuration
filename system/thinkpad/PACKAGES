@@ -1,4 +1,5 @@
 wpa_supplicant
+wpa_actiond
 dialog
 iw
 
@@ -12,11 +13,11 @@ cmake
 
 weston
 firefox
+vulkan-intel
 
 noto-fonts
 libx264
 
-sway
 rxvt-unicode
 
 xorg-xinit
@@ -28,6 +29,7 @@ i3-gaps
 i3blocks
 i3lock
 i3status
+feh
 
 xf86-video-intel
 pass
@@ -46,4 +48,19 @@ htop
 android-tools
 android-udev
 
+noto-fonts-cjk
+noto-fonts-emoji
 noto-fonts-extra
+
+emacs
+zsh
+zsh-completions
+
+# vulkan developement
+glslang
+spirv-tools
+vulkan-extra-layers
+vulkan-headers
+vulkan-html-docs
+vulkan-trace
+vulkan-validation-layers
