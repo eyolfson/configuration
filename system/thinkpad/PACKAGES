@@ -64,3 +64,7 @@ vulkan-headers
 vulkan-html-docs
 vulkan-trace
 vulkan-validation-layers
+
+otf-overpass
+packer
+emacs-evil
