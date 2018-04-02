@@ -11,6 +11,7 @@ GITHUB_URI_TEMPLATE = "git@github.com:eyolfson/{}"
 ECGIT_URI_TEMPLATE = "git@ecgit.uwaterloo.ca:jeyolfso/{}"
 
 PUBLIC_REPOSITORIES = [
+  "archlinux-configuration",
   "aur",
   "configuration",
   "configuration-check",
